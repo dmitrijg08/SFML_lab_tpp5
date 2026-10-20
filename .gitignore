@@ -1,0 +1,11 @@
+.vs/
+build/
+out/
+CMakeSettings.json
+
+vcpkg_installed/
+
+*.exe
+*.dll
+*.pdb
+*.ilk
